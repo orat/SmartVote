@@ -1,2 +1,4 @@
 # SmartVote
-The app allows you to select one of six "consensus steps", which are shown in specific color with explainations. You can use this app to show your position with the smartphone instead a card of paper. This functionality is for demonstration purpose only. Its not yet very useful in practice. The planed applications allows to collect the descisions of a group to show automatically on a beamer.
+This app allows you to select one of six "consensus steps", which are shown in specific colors with explainations. You can use this to show your position with your smartphone instead a card of paper or it can help you to remember the six steps. This functionality is for demonstration purpose only. Its not yet very useful in practice. 
+
+The planed SmartModeration apps will be based on peer to peer communication between the smartphones of a group of people. This will allow to collect the positions of the members automatically and to show the result as a graphic.

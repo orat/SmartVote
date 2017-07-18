@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_positive_confirmation"
+            android:icon="@drawable/ic_positive_confirmation2"
+            android:title="Vorbehaltlose Zustimmung" />
+        <item
+            android:id="@+id/nav_leight_concerns"
+            android:icon="@drawable/ic_leight_concerns2"
+            android:title="Leichte Bedenken" />
+        <item
+            android:id="@+id/nav_abstention"
+            android:icon="@drawable/ic_abstention2"
+            android:title="Enthaltung" />
+        <item
+            android:id="@+id/nav_stand_aside"
+            android:icon="@drawable/ic_stand_aside2"
+            android:title="Beiseite stehen" />
+        <item
+            android:id="@+id/nav_massive_conerns"
+            android:icon="@drawable/ic_massive_concerns2"
+            android:title="Schwere Bedenken" />
+        <item
+            android:id="@+id/nav_blocks"
+            android:icon="@drawable/ic_blocks2"
+            android:title="Veto" />
+    </group>
+
+    <!--item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"ab
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item-->
+
+</menu>
